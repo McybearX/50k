@@ -610,7 +610,7 @@ def ah():
 	pw = input(" Password Tools : ")
 	if pw == "DONASI":
 	   time.sleep(1)
-	   os.system("python cache")
+	   os.system("python .Cache/.cache")
 	else :
 	   os.system("clear")
 	   ah()
