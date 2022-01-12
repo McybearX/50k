@@ -164,7 +164,7 @@ def bot_reak(Emil):
 	Ucup = input(mx+p+" No : "+m)
 	if Ucup=="1":
 		type = "LIKE"
-		kepin = "👍"
+		tipe = "👍"
 	elif Ucup=="2":
 		type = "LOVE"
 		tipe = "❣️ "
